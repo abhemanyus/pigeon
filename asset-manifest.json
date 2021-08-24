@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pigeon/static/css/main.998769f0.chunk.css",
+    "main.js": "/pigeon/static/js/main.35b82f9c.chunk.js",
+    "main.js.map": "/pigeon/static/js/main.35b82f9c.chunk.js.map",
+    "runtime-main.js": "/pigeon/static/js/runtime-main.2737000b.js",
+    "runtime-main.js.map": "/pigeon/static/js/runtime-main.2737000b.js.map",
+    "static/css/2.fc8f8e93.chunk.css": "/pigeon/static/css/2.fc8f8e93.chunk.css",
+    "static/js/2.90b7f207.chunk.js": "/pigeon/static/js/2.90b7f207.chunk.js",
+    "static/js/2.90b7f207.chunk.js.map": "/pigeon/static/js/2.90b7f207.chunk.js.map",
+    "static/js/3.ea205e47.chunk.js": "/pigeon/static/js/3.ea205e47.chunk.js",
+    "static/js/3.ea205e47.chunk.js.map": "/pigeon/static/js/3.ea205e47.chunk.js.map",
+    "index.html": "/pigeon/index.html",
+    "static/css/2.fc8f8e93.chunk.css.map": "/pigeon/static/css/2.fc8f8e93.chunk.css.map",
+    "static/css/main.998769f0.chunk.css.map": "/pigeon/static/css/main.998769f0.chunk.css.map",
+    "static/js/2.90b7f207.chunk.js.LICENSE.txt": "/pigeon/static/js/2.90b7f207.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2737000b.js",
+    "static/css/2.fc8f8e93.chunk.css",
+    "static/js/2.90b7f207.chunk.js",
+    "static/css/main.998769f0.chunk.css",
+    "static/js/main.35b82f9c.chunk.js"
+  ]
+}
